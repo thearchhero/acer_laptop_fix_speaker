@@ -1,5 +1,5 @@
 # acer_laptop_fix_speaker
-Fix Your Acer Laptop's Speakers with this tool! (LINUX)
+Fix Your Acer Laptop's Speakers with this tool! (Arch Linux)
 
 # How to install:
 run `git clone https://github.com/thearchhero/acer_laptop_fix_speaker/ && acer_laptop_fix_speaker`
